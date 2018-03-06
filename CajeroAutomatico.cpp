@@ -1,7 +1,7 @@
 /*
 @autor:
  * Jhon velasco
- * @ frediv0406
+ * @frediv0406
  * Estudiante: Ing.Sistemas UDI
 */
 #include <iostream>
